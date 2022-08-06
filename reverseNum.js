@@ -1,0 +1,3 @@
+const reverseNum = n => +[...
+    "" + n
+].reverse().join("");
